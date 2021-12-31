@@ -8,7 +8,7 @@
 #   https://gitlab.com/almurphy
 #
 
-from meshtastic import StreamInterface
+from meshtastic.stream_interface import StreamInterface
 from pubsub import pub
 import logging
 import sys
